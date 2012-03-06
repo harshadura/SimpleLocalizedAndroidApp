@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+	<TextView android:id="@+id/sinhala_font1"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:text="Welldone Malinga!" android:textSize="25sp" />
+
+	<TextView android:id="@+id/sinhala_font2"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:text="kshuhs ud,sx.`" android:textSize="25sp" />
+
+	<TextView android:id="@+id/sinhala_font3"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:text="பாராட்டுகள் லசித் மலிங்க!" android:textSize="25sp" />
+		
+	<ImageView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:tint="#55ff0000"
+		android:src="@drawable/malinga" />
+</LinearLayout>  
